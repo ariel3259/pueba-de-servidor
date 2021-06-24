@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "name": "serve",
+  "version": "0.0.1",
+  "description": "Prueba de servidor web",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel3259/pueba-de-servidor.git"
+  },
+  "keywords": [
+    "latam"
+  ],
+  "author": "Ariel S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel3259/pueba-de-servidor/issues"
+  },
+  "homepage": "https://github.com/ariel3259/pueba-de-servidor#readme"
+}
